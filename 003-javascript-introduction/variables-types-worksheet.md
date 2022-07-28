@@ -47,7 +47,8 @@ isRed = !isRed, type = boolean, value = true (value and type were incorrect)
 isBlue, type = boolean, value = true (type was incorrect)
 name.lenght + age, type = string, value = Sally25 (incorrect, didn't read name.length correctly, adds length of sally  + 25, type = number, value = 30)
 point:  "+poitn, type = string, value = point: [10, 73], (value was somewhat incorrect but overall got the idea)
-numberofGoats+numberofSheep, type = number, value = 19, correct but I don't understand why the increment didn't apply here)
+numberofGoats+numberofSheep, type = number, value = 19, correct but I don't understand why the increment didn't apply here)--the correct one was numberOfGoats + numberOfSheep++, this should have an error since the ++ at the end is incorrect
 numberofGoats - ++numberofSpeech, type = number, value -15 (value was inccorect, need to go over this operation, I don't understand it well)
 y, type = number, value = undefined (value was wrong, note = sign in the parentheses)
+
 

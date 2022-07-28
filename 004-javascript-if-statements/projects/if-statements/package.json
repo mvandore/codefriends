@@ -1,0 +1,18 @@
+{
+  "name": "if-statements",
+  "version": "1.0.0",
+  "description": "an example of using if-statements in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "if-statement",
+    "javascript"
+  ],
+  "author": "Maxine Van Doren",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

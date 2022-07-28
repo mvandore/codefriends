@@ -38,8 +38,9 @@ Notes from homework:
 -if it occurs after the variable, it evaluates the variable THEN incremements
 -to run a .js script, node FILE.js or node ./FILE.js
 
-Notes from today: If-statements in javascript
-npm init = ? (init = initialize, not sure what npm is)
-prompt-sync = a library/package that prompts a user 
-input, you can use this code in your poject to prompt a user input
 
+# Notes about Markdown
+- use a single hashtag to make a heading
+- use a single dash to make a bulletpoint
+1. use numbers to make a numbered list.
+2. This is similar to R markdown
